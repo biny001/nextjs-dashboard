@@ -4,7 +4,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Acme Dashboard",
-  description: "A dashboard used for data vizualization and analytics.",
+  description:
+    "A dashboard used for data vizualization and analytics. built with next js app router",
 };
 
 export default function RootLayout({
